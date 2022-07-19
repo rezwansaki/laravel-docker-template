@@ -283,4 +283,5 @@ user: "1000:1000"
 
 ## License
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</br>
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
