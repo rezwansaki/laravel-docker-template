@@ -9,7 +9,7 @@ I built it to work with Laravel and Docker very easily. Here you can work with a
 </br> 
 
 ## Quick Guide
-Just Put your Project in <b>src</b> Folder and change <b>.env</b>, <b>docker-compose.yml</b> and <b>Dockerfile</b> as you need. Granting <b>'src'</b> folder and <b>'artisan'</b> file permissions. Working with your database. 
+Create <b>'src'</b> folder in project root folder (if not). Just Put your Project in <b>src</b> Folder and change <b>.env</b>, <b>docker-compose.yml</b> and <b>Dockerfile</b> as you need. Granting <b>'src'</b> folder and <b>'artisan'</b> file permissions. Working with your database. 
 
 Now run these commands: 
 ```
@@ -42,7 +42,7 @@ or,
 another image of php. 
 ```
 
-2. Move everything from your laravel project folder and put them directly in the src folder . Now looks like - 
+2. Create <b>'src'</b> folder in project root folder (if not). Move everything from your laravel project folder and put them directly in the src folder . Now looks like - 
 ```
 src/app
 src/routes
@@ -157,7 +157,7 @@ or,
 another image of php. 
 ```
 
-2. Granting 'src' folder permissions. From the root folder type - 
+2. Create <b>'src'</b> folder in project root folder (if not). Granting 'src' folder permissions. From the root folder type - 
 
 (Linux command) 
 
