@@ -9,7 +9,7 @@ I built it to work with Laravel and Docker very easily. Here you can work with a
 </br> 
 
 ## Quick Guide
-Just Put your Project in src Folder and change .env, docker-compose.yml and Dockerfile as you need. Granting 'src' folder and 'artisan' file permissions. Working with your database. 
+Just Put your Project in <b>src</b> Folder and change <b>.env</b>, <b>docker-compose.yml</b> and <b>Dockerfile</b> as you need. Granting <b>'src'</b> folder and <b>'artisan'</b> file permissions. Working with your database. 
 
 Now run these commands: 
 ```
