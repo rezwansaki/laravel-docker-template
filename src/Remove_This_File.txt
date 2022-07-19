@@ -1,0 +1,1 @@
+Put laravel project in here directoly. Such as src/app, src/vendor, src/artisan etc. And remove this text file.  
