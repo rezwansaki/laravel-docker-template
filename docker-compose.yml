@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  composer:
+    image: composer:latest
+    container_name: composer
+    user: "1000:1000"
+    volumes:
+      - ./src:/var/www/html
+    working_dir: /var/www/html
