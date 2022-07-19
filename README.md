@@ -104,7 +104,7 @@ Enter . instead of Dot. Such as:
 
 
 8. Run these commands (if your laravel project has everything such as vendor folder and the project is perfect, then skip this step): 
-```javascript
+```
 docker-compose -f docker-compose.next.yml run --rm composer update
 docker-compose -f docker-compose.next.yml run --rm npm install
 docker-compose -f docker-compose.next.yml run --rm npm run dev
